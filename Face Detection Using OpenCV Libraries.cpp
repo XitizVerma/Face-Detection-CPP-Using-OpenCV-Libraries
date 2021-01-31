@@ -1,5 +1,10 @@
 // C++ program to detect face in a video
 
+// Include required header files from OpenCV directory
+#include "/Xitiz/local/include/opencv2/objdetect.hpp"
+#include "/Xitiz/local/include/opencv2/highgui.hpp"
+#include "/Xitiz/local/include/opencv2/imgproc.hpp"
+#include <iostream>
 
 using namespace std;
 using namespace cv;
